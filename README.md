@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BSc in IT majoring in Computer Science and Mathematics.
 - 💞️ I’m looking to collaborate on projects in coding.
 - 📫 How to reach me to create a powerful application to bring change in the world.
-- 😄 Pronouns: He, his.
+- 😄 Pronouns: He, him.
 - ⚡ Fun fact: I am in love with fashion.
 
 <!---
